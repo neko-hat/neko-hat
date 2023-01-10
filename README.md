@@ -1,5 +1,7 @@
 - Hi, I’m @neko-hat
-- I'm a reverser and pwner
+- I'm a reverser and pwner  
+- I'm an Industrial Security student at Chung-Ang-Univ and I belong to ISANG, a club at Chung-Ang University.  
+
 
 <!---
 neko-hat/neko-hat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
