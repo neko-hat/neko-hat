@@ -1,4 +1,4 @@
-## About Me
+# About Me
 <div>
   <div>
     <img src="./assets/img/avatar.png" width="30%" height="30%" align="left"/>
