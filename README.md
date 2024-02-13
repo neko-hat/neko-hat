@@ -1,25 +1,34 @@
 # About Me
 <div>
   <div>
-    <img src="./assets/img/avatar.png" width="30%" height="30%" align="left"/>
+    <img src="./assets/img/avatar.png" width="35%" height="30%" align="left"/>
   </div>
   <div>
-    <p>Reverser & Pwner</p>
-    <p>Vulnerability Analyzer</p>
-    <p>중앙대학교 산업보안학과 정보보호 학술동아리 ISANG 2023 회장.</p>
-    <p>KITRI BoB 12th Vulnerability Analysis Track.</p>
+  <code style="color : LightSkyBlue">
+  <ui>
+    <li>Reverser & Pwner</li>
+    <li>Vulnerability Analyzer</li>
+    <li>CAU Industrial Security ISANG 2023 Club Leader.</li>
+    <li>CAU Industrial Security SECURIOUS Club Web Hacking Track Mentor (2023).</li>
+    <li>KITRI BoB 12th Vulnerability Analysis Track.</li>
+    </ui>
+    </code>
   </div>
 </div>
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
-<div style="float: center">
-  <p>Discord: neko_hat#1736</p>
-</div>
+---
+### Contact
+<code style="color : Cyan"> Discord: neko_hat#1736</code>  
+<code style="color : YellowGreen"> Email: dohwan09@cau.ac.kr</code>
+
+## Program Language
+
+
+## Contribute
+
+## Project
+
+## CVE
+
+## CTF
