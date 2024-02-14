@@ -18,13 +18,10 @@
 <br/>
 
 ---
-
 ### Contact
 <code style="color : Cyan"> Discord: neko_hat#1736</code>  
 <code style="color : YellowGreen"> Email: dohwan09@cau.ac.kr</code>
-<br/>
-<br/>
-<br/>
+
 ---
 ## Tech
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
