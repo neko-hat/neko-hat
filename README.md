@@ -1,7 +1,7 @@
 # About Me
 <div>
   <div>
-    <img src="./assets/img/avatar.png" width="35%" height="30%" align="left"/>
+    <img src="./assets/img/avatar.png" width="25%" />
   </div>
   <div>
   <ui>
