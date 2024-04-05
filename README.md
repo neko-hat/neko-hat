@@ -54,6 +54,8 @@ Open Source Contribute Netatalk (I found discrepancy in buffer size )
 
 ---
 ## Project
+(주)프로카젠 LIS 구축 및 서버 관리 (2021.12 ~ 2022.06)
+(주)포체인스 Moulus 서비스 개발 및 서버 관리 (2022.06 ~ )
 [BoB 12th Project - Synology NAS Vulnerability Analysis, Team TGLS (2023.9 ~ 2023.12)](https://www.synology.com/ko-kr/security/bounty_program/acknowledgement)  
 Synology SRM Vulnerability Analysis (2024.02 ~)  
 
@@ -62,4 +64,8 @@ Update Soon...
 Update Soon...
 
 ## CTF
-Update Soon...
+IrisCTF 2023 23rd (Team APT0)
+Dreamhack CTF season3 (div2, 2023.03) 3rd
+2023 HackTheon Sejong (the final round) (Team NYWT)
+2023 Christmas CTF (Dreamhack) Make Challenge.
+2023 and 2024 1st and 2nd in-college CTF competitions will be operated (ISANG X CAUTion CTF)
