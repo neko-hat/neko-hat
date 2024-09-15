@@ -77,3 +77,4 @@ Update Soon...
 * 2024 damCTF 9th (Team budaejjigae)
 * 2024 Defcon 26th (Team budaejjigae)
 * 2024 Hacktheon Biginner 37th
+* 2024 rstcon 2024 10th (Team tw0n3-bytes)
