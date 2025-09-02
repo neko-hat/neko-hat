@@ -64,11 +64,38 @@ Open Source Contribute Netatalk (I found discrepancy in buffer size )
 
 Update Soon...
 ## CVE
-CVE-2024-0854, CVE-2024-4464 (Team TGLS)  
+
+CVE-2024-4464
+
+CVE-2024-53286
+
 CVE-2024-50395
 
-12 Accepted CVE (Team-OHiC)
-comming soon...
+CVE-2024-53287
+
+CVE-2024-53288
+
+CVE-2024-53279
+
+CVE-2024-53280
+
+CVE-2024-53281
+
+CVE-2024-53282
+
+CVE-2024-53283
+
+CVE-2024-53284
+
+CVE-2024-53285
+
+CVE-2024-0854
+
+CVE-2025-44015 
+
+## KVE
+
+KVE-2025-0160
 
 ## CTF
 * 2022 SSTF 47th (Team ISANG)
